@@ -18,4 +18,5 @@ import { useCurrentUser } from 'vuefire';
 
 const auth  = getAuth()
 const user = useCurrentUser();
+console.log(user)
 </script>
