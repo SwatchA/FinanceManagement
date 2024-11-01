@@ -306,7 +306,7 @@ function CreateAccounts() {
                       required
                     />
                     <label for="floatingInput">
-                      Initial Deposit(Minimum 500 Rs.)
+                      Initial Deposit(Minimum 500 Taka)
                     </label>
                   </div>
                 </div>

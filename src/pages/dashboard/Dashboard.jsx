@@ -123,13 +123,13 @@ function Dashboard() {
                       <div className="row ">
                         <div className="col text-start mb-0 ">
                           <p className="TC">
-                            Total Credits Rs:
+                            Total Credits Tk:
                             <span className="text-success">{totalCredit}</span>
                           </p>
                         </div>
                         <div className="col text-end mb-0 ">
                           <p className="TD">
-                            Total Debits Rs:
+                            Total Debits Tk:
                             <span className="text-danger">{totalDebit}</span>
                           </p>
                         </div>

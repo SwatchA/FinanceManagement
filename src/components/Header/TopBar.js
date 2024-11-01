@@ -20,21 +20,21 @@ function TopBar() {
           </div>
           <div className="col-5 text-end">
             <a
-              href="https://www.facebook.com/sikander.nawaz09/"
+              href="https://www.facebook.com"
               className="text-light"
               target="_blank"
             >
               <BsFacebook className="mb-0 me-2" />
             </a>
             <a
-              href="https://github.com/sikander-nawaz"
+              href="https://github.com"
               className="text-light"
               target="_blank"
             >
               <BsGithub className="mb-0 me-2" />
             </a>
             <a
-              href="https://wa.me/+923134140481"
+              href="https://wa.me"
               className="text-light"
               target="_blank"
             >
